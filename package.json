@@ -4,7 +4,8 @@
   "description": "a full stack JavaScript app that allows the users to search for images and browse recent search queries ",
   "main": "main",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main"
   },
   "author": "trivi",
   "license": "ISC",
@@ -12,6 +13,8 @@
     "body-parser": "^1.18.2",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
+    "google-images": "^2.1.0",
+    "googleapis": "^22.2.0",
     "mongodb": "^2.2.31",
     "mongoose": "^4.11.12"
   }
