@@ -1,0 +1,14 @@
+form {
+	width: 500px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #abb8ce;
+	border-radius: 5px;
+	padding: 15px 20px 15px 20px;
+}
+
+label {
+	font-weight: bold;
+}
